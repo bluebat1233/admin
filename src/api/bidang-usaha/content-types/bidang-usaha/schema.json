@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bidang_usahas",
+  "info": {
+    "singularName": "bidang-usaha",
+    "pluralName": "bidang-usahas",
+    "displayName": "Bidang Usaha"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Judul": {
+      "type": "string",
+      "required": false
+    },
+    "Deskripsi": {
+      "type": "text"
+    }
+  }
+}
