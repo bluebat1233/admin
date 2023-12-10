@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_paragraf_paragrafs",
+  "info": {
+    "displayName": "Paragraf",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "text"
+    }
+  }
+}
